@@ -1,7 +1,7 @@
 # PATHS Lab Repository
 
-This is where our lab's manual, sanitizing protocols, and other documents will be publically available for other researchers to see how we work.
-The main purposes of this repo are for us to be transparent about our methods, allow for constructive criticism, and to provide open source tools to other researchers.
+This is where our lab's manual, sanitizing protocols, and other documents will be publicly available for other researchers to see how we work.
+The main purposes of this repo are for us to be transparent about our methods, allow for constructive criticism, and to provide open-source tools to other researchers.
 
 # Who Will Be Contributing To This Repository?
 
